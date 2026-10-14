@@ -1,4 +1,4 @@
-# Connect-Mini-NAS-Vault
+# Informazioni generali
 Connessione ad uno spazio di archiviazione di rete sempre a portata di mano.<br>
 Trasforma la tua rete nel tuo cloud personale. Zero chiavette, massima comodità.
 
